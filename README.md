@@ -1,4 +1,5 @@
 Loan Default Prediction – Supervised Classification Project
+
 Built a machine learning model to predict whether loan applicants are likely to default based on historical financial and demographic data.
 
 Objective: Help financial institutions minimize risk by predicting loan defaults ahead of time.
